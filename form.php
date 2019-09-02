@@ -14,12 +14,12 @@
 							if($result == TRUE){
 								echo "<script type = \"text/javascript\">
 											alert(\"Message Sent Successfully \");
-											window.location = (\"contact.html\")
+											window.location = (\"contact-us.html\")
 											</script>";
 							} else{
 								echo "<script type = \"text/javascript\">
 											alert(\" Failed. Try Again\");
-											window.location = (\"contact.html\")
+											window.location = (\"contact-us.html\")
 											</script>";
 							}
 						}
